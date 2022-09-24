@@ -24,16 +24,18 @@
 - [Lombok](https://projectlombok.org/download) - Project Lombok (from now on, Lombok) is an annotation-based Java
   library that allows you to reduce boilerplate code.
 
-- [PostgreSQL Drive](https://projectlombok.org/download) - The PostgreSQL JDBC Driver allows Java programs to connect to
+- [PostgreSQL Drive](https://jdbc.postgresql.org/download/) - The PostgreSQL JDBC Driver allows Java programs to connect to
   a PostgreSQL database using standard, database independent Java code.
 
 - [MySQL Drive](https://www.mysql.com/products/connector/) - MySQL provides standards-based drivers for JDBC, ODBC, and
   .Net enabling developers to build database applications in their language of choice
+  
+- [Sample Database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) - PostgreSQL sample database that you can use for learning and practicing PostgreSQL.  
 
 
 ## Out
 
-> Made with MySQL
+> with MySQL
 - Create Table
 
 ![](resources/create_table.png)
@@ -51,7 +53,7 @@
 ![](resources/after_delete.png)
 
 
-> Made with PostgreSQL
+> with PostgreSQL
 
 - SQL Transaction 
 
